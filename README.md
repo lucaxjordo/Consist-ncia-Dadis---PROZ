@@ -28,10 +28,10 @@ Consistência de Dados em Sistemas Distribuídos
         O código garante que apenas valores positivos sejam aceitos para depósitos, evitando erros como depósitos de valores negativos ou zero.
       
       Validação de Saques:
-        Saldo Suficiente: Verifica se há saldo suficiente antes de permitir um saque.
-        Limite de Saque: Garante que o valor do saque não exceda o limite permitido.
-        Número Máximo de Saques: Controla o número máximo de saques permitidos por dia, assegurando que não sejam realizados mais saques do que o permitido.
-        Registro de Transações: Mantém um extrato das transações realizadas, registrando depósitos e saques de forma detalhada para futura referência e verificação.
+        - Saldo Suficiente: Verifica se há saldo suficiente antes de permitir um saque.
+        - Limite de Saque: Garante que o valor do saque não exceda o limite permitido.
+        - Número Máximo de Saques: Controla o número máximo de saques permitidos por dia, assegurando que não sejam realizados mais saques do que o permitido.
+        - Registro de Transações: Mantém um extrato das transações realizadas, registrando depósitos e saques de forma detalhada para futura referência e verificação.
       
       Feedback ao Usuário: 
         Fornece mensagens claras ao usuário em caso de falha na operação, explicando o motivo da falha, o que ajuda na compreensão e correção de erros.

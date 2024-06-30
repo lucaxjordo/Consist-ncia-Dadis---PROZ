@@ -18,10 +18,10 @@ Consistência de Dados em Sistemas Distribuídos
 
   - Esstudos de Caso e Exemplos Práticos
   
-    Código de Transações Bancárias
+    Código de Transações Bancárias:
       Um exemplo de código simples de transações bancárias, focando no aspecto de validação de dados mais do que na interação com banco de dados.
      
-     Pontos Fortes de Validação de Dados do Código
+     Pontos Fortes de Validação de Dados do Código:
       Validação de Entrada de Dados: O código verifica se as opções do menu e os valores de transação são válidos, evitando entradas inválidas que poderiam causar erros no sistema.
     
       Validação de Depósitos: 

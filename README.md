@@ -1,5 +1,5 @@
 # Consistencia Dados - PROZ
-Trabalho turma ENT - Professfor Juliano
+Trabalho turma ENT - Professfor Juliano - Técnico em Deselvovimento de Sistemas, Proz Educação
 
 Consistência de Dados em Sistemas Distribuídos
 
